@@ -15,10 +15,10 @@ list of equations thus far:
      Future plan: make it general for it to be able solve with source term and various boundary conditions.
      
 Referenced books & courses:
-  CFD python: 12 steps to Navier Stokes, Barbar
-  Numerical Methods for Engineers, Chapra & Canale
-  Fundamentals of Computational Fluid Dynamics, Lomax&Pulliam& Zingg
-  Computational Fluid Dynamics Hoffmann & Chiang
-  Numerical Fluid Mechanics, MIT opencourseware 
-  NASA Advanced Modeling & Simulation (AMS) Seminar Series, Introduction to Computational Fluid Dynamics
+  -CFD python: 12 steps to Navier Stokes, Barbar
+  -Numerical Methods for Engineers, Chapra & Canale
+  -Fundamentals of Computational Fluid Dynamics, Lomax&Pulliam& Zingg
+  -Computational Fluid Dynamics Hoffmann & Chiang
+  -Numerical Fluid Mechanics, MIT opencourseware 
+  -NASA Advanced Modeling & Simulation (AMS) Seminar Series, Introduction to Computational Fluid Dynamics
      
