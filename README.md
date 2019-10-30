@@ -18,8 +18,9 @@ Referenced books & courses:
 
   - CFD python: 12 steps to Navier Stokes, Barbar
   - Numerical Methods for Engineers, Chapra & Canale
+  - CFD: Basics and Applications, Anderson
   - Fundamentals of Computational Fluid Dynamics, Lomax&Pulliam& Zingg
   - Computational Fluid Dynamics Hoffmann & Chiang
   - Numerical Fluid Mechanics, MIT opencourseware 
-  - NASA Advanced Modeling & Simulation (AMS) Seminar Series, Introduction to Computational Fluid Dynamics
+  - Introduction to Computational Fluid Dynamics, NASA Advanced Modeling & Simulation (AMS) Seminar Series
      
