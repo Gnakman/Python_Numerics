@@ -1,4 +1,4 @@
-# Python_Numerics
+# Python Numerics
 
 Mostly elementary CFD codes in Python and some numerical linear algebra
 
