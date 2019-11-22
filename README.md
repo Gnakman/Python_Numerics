@@ -2,7 +2,7 @@
 
 Mostly elementary CFD codes in Python and some numerical linear algebra
 
-I am learning how to implement finite difference schemes and to display the result using matplotlib.
+Slowly learning how to code numerics and to talk as if I know what I am talking about.
 
 
 Referenced books & courses:
