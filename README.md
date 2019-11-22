@@ -2,7 +2,7 @@
 
 Mostly elementary CFD codes in Python and some numerical linear algebra
 
-Slowly learning how to code numerics and to talk as if I know what I am talking about.
+Slowly learning how to code numerics and to talk as if I know what I am doing. So that one day I may be able to contribute.
 
 
 Referenced books & courses:
