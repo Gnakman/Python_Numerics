@@ -7,7 +7,6 @@ Referenced books & courses:
   - Numerical Methods for Engineers, Chapra & Canale
   - CFD: Basics and Applications, Anderson
   - Fundamentals of Computational Fluid Dynamics, Lomax&Pulliam& Zingg
-  - Computational Fluid Dynamics Hoffmann & Chiang
   - Numerical Fluid Mechanics, MIT opencourseware /NFM
   - Introduction to Computational Fluid Dynamics, NASA Advanced Modeling & Simulation (AMS) Seminar Series
      
